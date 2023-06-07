@@ -2,7 +2,7 @@ const { createApp } = Vue;
 createApp({
     data(){
         return{
-            html: '<h1>CiaoCffdfdiao</h1>'
+            html: '<h1>CiaoCiao</h1>'
         }
     }
 })
